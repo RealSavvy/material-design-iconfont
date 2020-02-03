@@ -1,0 +1,33 @@
+{
+  "_from": "github:ynnoj/material-design-iconfont",
+  "_id": "material-design-iconfont@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/material-design-iconfont",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "material-design-iconfont@github:ynnoj/material-design-iconfont",
+    "name": "material-design-iconfont",
+    "escapedName": "material-design-iconfont",
+    "rawSpec": "github:ynnoj/material-design-iconfont",
+    "saveSpec": "github:ynnoj/material-design-iconfont",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/ember-material-icons"
+  ],
+  "_resolved": "github:ynnoj/material-design-iconfont#538e238ad0a47db7cbe826c0026e44e5a4c2159c",
+  "_spec": "material-design-iconfont@github:ynnoj/material-design-iconfont",
+  "_where": "/Users/cwashington/workspace_git/realsavvy-ui/node_modules/ember-material-icons",
+  "author": {
+    "name": "Jonathan Steele"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Icon font assets for Material Design icons",
+  "license": "MIT",
+  "name": "material-design-iconfont",
+  "version": "1.0.0"
+}
